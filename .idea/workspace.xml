@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30ac34bb-8831-4883-a00c-c75b2ed68817" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sec9_django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/fixtures/initial_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/gunicorn.conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/initial_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/product/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/product/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

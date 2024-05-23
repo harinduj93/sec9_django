@@ -12,10 +12,15 @@ INSTALLED_APPS = [
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'default',  # Replace with your actual database name
+        'USER': 'harinduj93',  # Replace with your actual username
+        'PASSWORD': 'admin123@',  # Replace with your actual password
+        'HOST': 'harinduj93.mysql.pythonanywhere-services.com',  # Replace with your actual host address
+        'PORT': '3306',  # Replace with your actual port (usually 3306 for MySQL)
     }
 }
+
 
 TEMPLATES = [
     {
@@ -36,10 +41,5 @@ TEMPLATES = [
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [BASE_DIR / 'static']
 DEBUG = False
-ALLOWED_HOSTS = ['your-heroku-app.herokuapp.com']
+ALLOWED_HOSTS = ['harinduj93.pythonanywhere.com']
 
-
-
-DATABASES = {
-    'default': dj_database_url.config(default='postgres://localhost/mydb')
-}
